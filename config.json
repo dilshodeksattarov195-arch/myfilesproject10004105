@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokencalculate",
+        "uuid": 22655495,
+        "checksum": "pfuzni"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
